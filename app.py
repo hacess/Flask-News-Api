@@ -3,6 +3,8 @@ import json
 from flask import Flask,render_template
 app = Flask(__name__)
 
+temp_url=('')
+
 @app.route("/indian")
 def indian():
     url = ('https://newsapi.org/v2/top-headlines?'
