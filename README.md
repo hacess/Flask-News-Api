@@ -4,4 +4,5 @@ To run this project use
 ```sh
 python app.py runserver
 ```
-https://github.com/hacess/Flask-News-Api/blob/master/news_api.png
+
+![Image of Yaktocat](https://github.com/hacess/Flask-News-Api/blob/master/news_api.png)
